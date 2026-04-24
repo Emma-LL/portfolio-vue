@@ -1,13 +1,9 @@
-<template>
-  <div>
-
-  </div>
-</template>
-
 <script setup>
-
+  import experience from '@/components/experience.vue';
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<template>
+  <main>
+    <experience />
+  </main>
+</template>
