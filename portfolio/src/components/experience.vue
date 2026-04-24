@@ -1,5 +1,5 @@
 <template>
-  <section class="relative py-16 px-8 flex flex-col items-center overflow-hidden min-h-screen">
+  <section class="relative py-16 px-8 flex flex-col items-center overflow-hidden h-auto">
 
     <!-- Overskrift -->
     <h2 class="text-[var(--dark-green)] text-[3rem] font-black font-['Nunito',_sans-serif] mb-20 z-10 tracking-wide">
